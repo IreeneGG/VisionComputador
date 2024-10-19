@@ -4,6 +4,7 @@
 
 ### Ejecución ▶️
 Inicializa el repositorio
+
 	git init
  
 Agrega los archivos (todos)
