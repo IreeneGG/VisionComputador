@@ -1,6 +1,6 @@
 # Proyecto de Detección y Clasificación de Frutas en Tiempo Real 🔎🍇
 
-Este repositorio contiene los archivos y el código fuente necesarios para el desarrollo de un sistema de visión por computador que detecta y clasifica frutas en tiempo real, evaluando tanto el tipo de fruta como su estado (bueno o malo).
+Este repositorio contiene los archivos y el código fuente necesarios para el desarrollo de un sistema de visión por computador que clasifica frutas en tiempo real, evaluando tanto el tipo de fruta como su estado (bueno o malo).
 El proyecto se divide en dos etapas principales, cada una de las cuales cuenta con un archivo específico en este repositorio:
 
 ## 1. ExtraerCaracteristicasDataset.ipynb 🗂️
@@ -11,7 +11,7 @@ Este archivo es un notebook de Google Colab diseñado para la extracción de car
 2. Asegúrate de montar Google Drive para acceder al dataset.
 3. Ejecuta las celdas para procesar las imágenes del dataset y guardar las características en un archivo CSV.
 
-## 1. proyecto.py 🗂️
+## 2. proyecto.py 🗂️
 Este archivo contiene el código necesario para la captura de imágenes en tiempo real mediante una cámara conectada al sistema.
 
 ### Uso
