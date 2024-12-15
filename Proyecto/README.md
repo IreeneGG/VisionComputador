@@ -6,8 +6,6 @@ El proyecto se divide en dos etapas principales, cada una de las cuales cuenta c
 ## 1. ExtraerCaracteristicasDataset.ipynb 🗂️
 Este archivo es un notebook de Google Colab diseñado para la extracción de características de un conjunto de datos de imágenes almacenado en Google Drive.
 
-	python parctica.py
-
 ### Uso
 1. Abre el archivo en Google Colab.
 2. Asegúrate de montar Google Drive para acceder al dataset.
